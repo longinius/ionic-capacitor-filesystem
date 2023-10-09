@@ -1,0 +1,7 @@
+{
+  "name": "ionic-filesystem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
